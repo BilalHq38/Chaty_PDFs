@@ -1,4 +1,4 @@
-# Chaty_PDFs – AI-Powered Document Intelligence
+# Chaty_PDFs
 
 Chaty_PDFs is an advanced AI-powered chatbot that revolutionizes document interaction. Instead of manually searching through hundreds of pages, users can upload PDF documents and engage in natural conversations to extract insights, summaries, and answers.
 
